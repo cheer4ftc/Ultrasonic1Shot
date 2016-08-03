@@ -1,7 +1,7 @@
 # Ultrasonic1Shot
 Easy way to use the "1 shot" mode of the LEGO Ultrasonic Sensor
 
-See OpModeTestUltrasonic to see how to use the code.
+See OpModeTestUltrasonic for a simple example of how to use the code.
 
 1. initialize the Ultrasonic thread(s) in init() (or before waitForStart() in a LinearOpMode).
 2. interrupt the Ultrasonic thread(s) in stop() (or at the end of the runOpMode() method in a LinearOpMode).
