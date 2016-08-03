@@ -1,5 +1,7 @@
 # Ultrasonic1Shot
-Easy way to use the "1 shot" mode of the LEGO Ultrasonic Sensor
+Easy way to use the "1 shot" mode of the LEGO Ultrasonic Sensor.
+
+Add the name of your java package at the top of each file and incorporate these into your normal codebase. Don't forget to add "OpModeTestUltrasonic" to your FtcOpModeRegister file to try out the test OpMode.
 
 See OpModeTestUltrasonic for a simple example of how to use the code.
 
