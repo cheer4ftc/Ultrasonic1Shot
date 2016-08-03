@@ -13,4 +13,4 @@ See OpModeTestUltrasonic for a simple example of how to use the code.
 
 Other methods are getUltrasonicLevelMin(), ...Median(), and ...Max() which return the min, median, and max of the previous 5 ultrasonic level readings. 5 is a static int BUFFER_SIZE that can be changed in the UltrasonicSensorThread code.
 
-Thanks to Team25 for the Ultrasonic single shot code!
+Thanks to skatefriday/Team25 for the Ultrasonic single shot code!
