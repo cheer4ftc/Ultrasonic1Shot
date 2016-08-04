@@ -1,5 +1,5 @@
 # Ultrasonic1Shot
-Easy way to use the "single shot" mode of the LEGO Ultrasonic Sensor, using skatefriday/Team25's Ultrasonic single shot code.
+Easy way to use the "single shot" mode of the LEGO Ultrasonic Sensor, using skatefriday/Team25's Ultrasonic single shot code. The single shot mode is reported to produce more reliable readings than the default mode.
 
 Add the name of your java package at the top of each file and incorporate these into your normal codebase. Don't forget to add "OpModeTestUltrasonic" to your FtcOpModeRegister file to try out the test OpMode. 
 
